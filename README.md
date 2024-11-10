@@ -8,7 +8,12 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/yunik1004"><img src="https://github-readme-stats.vercel.app/api?username=yunik1004&hide_border=true&show_icons=true" alt="yunik1004's github stats"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=yunik1004&hide_border=true&show_icons=true" alt="yunik1004's github stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunik1004&layout=compact&hide_border=true" alt="yunik1004's most-used-languages">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yunik1004&theme=onedark" alt="yunik1004's github trophies">
 </p>
 
 <!--
